@@ -15,6 +15,10 @@ h1{
     font-size: 6rem;
     color: black;
 }
+#dominoes-list li:hover{
+    font-size: 7rem;
+
+}
 #dominoes-list .selected{
     color:white;
     filter: drop-shadow(0 0 0.75rem white);
