@@ -21,3 +21,4 @@ let randomIndex = getRandomNumber(firstIndex,lastIndex)
 
 let randomDomino = dominoElements[randomIndex]
 randomDomino.classList.add("selected")
+
