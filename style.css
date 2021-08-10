@@ -24,10 +24,3 @@ h1{
     filter: drop-shadow(0 0 0.75rem white);
 
 }
-.deleted {
-    display: none; /* Completely remove from the document flow! */
-}
-
-.hidden {
-    visibility: hidden; /* Keep element in the document flow, but make it invisible? */
-}
