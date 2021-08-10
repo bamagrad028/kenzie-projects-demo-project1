@@ -1,0 +1,22 @@
+body{
+    background-color: dodgerblue;
+}
+h1{
+    color: rgb(92, 92, 243);
+}
+#dominoes-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+#dominoes-list li {
+    list-style-type: none;
+    font-size: 6rem;
+    color: black;
+}
+#dominoes-list .selected{
+    color:white;
+    filter: drop-shadow(0 0 0.75rem white);
+
+}
